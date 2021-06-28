@@ -2,5 +2,6 @@
 Layout:
 slidetitle: "Welcom to our second sidle!"
 ---
-Your text
+name = input("Используйте стрелку назад!")
+print(name)
 Use the left arrow to go back!
