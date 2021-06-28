@@ -1,0 +1,7 @@
+---
+Layout:
+slidetitle: "Welcom to our second sidle!"
+---
+name = input("Используйте стрелку назад!")
+print(name)
+Use the left arrow to go back!
